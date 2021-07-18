@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+List
+ * create a list
+  * add items to list
+  * <del>cross items off list</del>
