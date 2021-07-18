@@ -16,6 +16,11 @@ layout: default
 
 {% include 04-lists.md %}
 
+List
+  * create a list
+  * add items to list
+  * <del>cross items off list</del>
+
 <br>
 
 {% include 05-emphasis.md %}
